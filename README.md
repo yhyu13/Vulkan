@@ -3,7 +3,7 @@
   
 # Projects
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=“color:red;”>1. Model Loading with Texture </span>
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Model Loading with Texture
 
 
 
@@ -26,7 +26,7 @@
 
 
 
-## 2. Forward Rendering
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Forward Rendering
 
 
 
