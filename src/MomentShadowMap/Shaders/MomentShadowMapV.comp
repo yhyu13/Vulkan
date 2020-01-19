@@ -1,0 +1,44 @@
+#version 450
+
+layout (local_size_x = 1, local_size_y = 128) in;
+
+layout (binding = 1, rgba32f) uniform readonly image2D inputImage;
+layout (binding = 3, rgba32f) uniform writeonly image2D resultImage;
+
+layout ( binding = 2) uniform WeightsBuffer
+{
+	float val[101];
+} weights;
+
+//shared vec4 horizontal[128+101];
+
+shared vec4 vertical[128+101];
+
+	
+
+void main()
+{
+	
+	ivec2 gPos =  ivec2(gl_GlobalInvocationID.xy);
+	
+	uint i = gl_LocalInvocationID.y; 
+	
+	vertical[i] =  vec4(imageLoad(inputImage,gPos + ivec2(0,-50)).rgba);
+	if(i<100)
+	{
+		
+		vertical[i+128] =  vec4(imageLoad(inputImage,gPos + ivec2(0,128-50)).rgba);
+	}
+	barrier();
+	
+	vec4 result = vec4(0.0f);
+
+	for(int j = 0; j < 101; ++j)
+	{
+		
+		result += (weights.val[j]* vertical[i+j]);
+	}
+
+	imageStore(resultImage, gPos ,result); 
+	
+}

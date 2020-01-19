@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Camera.cpp
+  VulkanRenderer.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  d:\projects\valentine graphic renderer\include\glfw\glfw3.h(104): note: see previous definition of 'APIENTRY'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wingdi.h(36): warning C4005: 'WINGDIAPI': macro redefinition
+  d:\projects\valentine graphic renderer\include\glfw\glfw3.h(114): note: see previous definition of 'WINGDIAPI'
+d:\projects\valentine graphic renderer\src\vulkanrenderer\vulkanrenderer.cpp(18): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+  VulkanSwapChain.cpp
+  Generating Code...
+  VulkanRenderer.vcxproj -> D:\Projects\Valentine Graphic Renderer\PC Visual Studio\VulkanRenderer\..\..\Library\VulkanRenderer.lib
