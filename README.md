@@ -3,7 +3,7 @@
   
 # Projects
 
-![#f03c15](## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Model Loading with Texture) `#f03c15`
+<span style=“color:red;”>## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Model Loading with Texture </span>
 
 
 
