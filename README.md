@@ -5,11 +5,10 @@
 
 ## 1. Model Loading with Texture
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
+
+
+</ br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Model Loading](Gifs/Vulkan___Model_Loading.gif)](https://youtu.be/W6YLzFhfPsc "Model Loading")
 
 
