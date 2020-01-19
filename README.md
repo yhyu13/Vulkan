@@ -4,7 +4,7 @@
 # Projects
 
 ## 1. Model Loading with Texture
-   [![Model Loading](http://img.youtube.com/vi/W6YLzFhfPsc/0.jpg)](https://youtu.be/W6YLzFhfPsc "Model Loading")
+   [![Model Loading](ScreenShots/1.png)](https://youtu.be/W6YLzFhfPsc "Model Loading")
 
 
 <figure class="video_container">  
