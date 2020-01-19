@@ -3,7 +3,7 @@
   
 # Projects
 
-<span style=“color:red;”>## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Model Loading with Texture </span>
+## <span style=“color:red;”>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Model Loading with Texture </span>
 
 
 
