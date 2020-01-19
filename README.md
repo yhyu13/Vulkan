@@ -3,7 +3,7 @@
   
 # Projects
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![#f03c15](1. Model Loading with Texture) `#f03c15`
+![#f03c15](## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Model Loading with Texture) `#f03c15`
 
 
 
