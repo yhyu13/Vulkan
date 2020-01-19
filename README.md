@@ -4,7 +4,7 @@
 # Projects
 
 ## 1. Model Loading with Texture
-   [![Model Loading](ScreenShots/1.png ){height="50%" width="50%"}](https://youtu.be/W6YLzFhfPsc "Model Loading")
+   [![Model Loading](Gifs/Vulkan___Model_Loading.gif)](https://youtu.be/W6YLzFhfPsc "Model Loading")
 
 
 <figure class="video_container">  
